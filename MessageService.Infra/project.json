@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0-*",
+  "description": "MessageService.Infra Class Library",
+  "authors": [ "Andre Casertano" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": { }
+  },
+  "dependencies": {
+    "MessageService.Domain": "1.0.0-*"
+  }
+}

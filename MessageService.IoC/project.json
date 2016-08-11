@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "description": "MessageService.IoC Class Library",
+  "authors": [ "it" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": { }
+  },
+  "dependencies": {
+    "MessageService.Domain": "1.0.0-*",
+    "MessageService.Infra.Bus": "1.0.0-*",
+    "Microsoft.Framework.DependencyInjection.Abstractions": "1.0.0-beta8"
+  }
+}

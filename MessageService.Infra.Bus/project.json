@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0-*",
+  "description": "MessageService.Infra.Bus Class Library",
+  "authors": [ "Andre Casertano" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": {
+    }
+  },
+  "dependencies": {
+    "MessageService.Domain": "1.0.0-*",
+    "Microsoft.Extensions.OptionsModel": "1.0.0-rc1-final",
+    "Microsoft.Framework.DependencyInjection.Abstractions": "1.0.0-beta8",
+    "WindowsAzure.Storage": "7.1.2"
+  }
+}
